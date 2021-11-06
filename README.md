@@ -1,18 +1,11 @@
 ## Hi there 👋! My name is Nakitto Catherine
 
-- 🔭 I’m currently working on - Testing in JavaScript with Jest
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on - rails API for a mobile app.
+- 🌱 I’m currently learning - Testing in JavaScript with Jest
 - 👯 I’m looking to collaborate on Rails and JavaScript projects
 - 🤔 I’m looking for help with JavaScript project suggestions to help me learn faster
 - 💬 Ask me about improving UI/UX
-- 📫 How to reach me: Twitter - cathella9
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I spent hours designing
+- ⚡ Fun fact: I spend hours designing.
 
-<!--
-**Cathella/Cathella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakitto-catherine-2020) [![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=black)](https://cathella.github.io/my-portfolio/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cathella9)
