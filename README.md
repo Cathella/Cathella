@@ -1,5 +1,7 @@
-## Hi there 👋! My name is Nakitto Catherine
+![Visitor Count](https://profile-counter.glitch.me/Cathella/count.svg)
 
+## Hi there 👋! 
+- My name is Nakitto Catherine
 - 🔭 I’m currently working on - rails API for a mobile app.
 - 🌱 I’m currently learning - Testing in JavaScript with Jest
 - 👯 I’m looking to collaborate on Rails and JavaScript projects
