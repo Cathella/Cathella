@@ -2,7 +2,7 @@
 
 <h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nakitto.</h1>
 
-👨‍💻 To know more about the projects I have worked on, checkout my [Portfolio](https://cathella.github.io/my-portfolio/)
+👨‍💻 To know more about the projects I have worked on, checkout my [Portfolio](https://cathella.github.io)
 
 📝 You can also checkout some articles I have written on [Medium](https://ncathie214.medium.com/)
 
