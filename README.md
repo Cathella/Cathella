@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Cathella.visitor-badge)
 
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nakitto.</h1>
+<h1>Hi, I'm Nakitto.</h1>
 
 👨‍💻 To know more about the projects I have worked on, checkout my [Portfolio](https://cathella.github.io)
 
