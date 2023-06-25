@@ -1,12 +1,10 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Cathella.visitor-badge)
-
 <h1>Hi, 👋 I'm Nakitto.</h1>
 
 👨‍💻 To know more about the projects I have worked on, checkout my [Portfolio](https://cathella.github.io)
 
 📝 You can also checkout some articles I have written on [Medium](https://ncathie214.medium.com/)
 
-💬 My favorite topics are ```[ "Ruby", "Ruby on Rails", "JavaScript", "ReactJS", "CSS" ] ```
+💬 My favorite topics are ```[ "Ruby", "Ruby on Rails", "JavaScript", "ReactJS", "CSS", "UI/UX" ] ```
 
 📫 You can write to me on **ncathie214@gmail.com**
 
